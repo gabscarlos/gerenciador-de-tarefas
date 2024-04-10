@@ -16,3 +16,39 @@ Este é um projeto desenvolvido para a disciplina de Linguagens de Programação
 - React: Biblioteca JavaScript para construção de interfaces de usuário.
 - TypeScript: Linguagem de programação que adiciona tipagem estática ao JavaScript.
 - Vite: Ferramenta de compilação e desenvolvimento para projetos front-end com suporte a React e TypeScript.
+
+## Como Executar o Projeto
+
+1. Clone o repositório para sua máquina local:
+
+```bash
+git clone https://github.com/seu-usuario/gerenciador-de-tarefas.git
+```
+
+2. Navegue até o diretório do projeto:
+
+```bash
+cd gerenciador-de-tarefas
+```
+
+3. Instale as dependências:
+
+```bash
+npm install
+```
+
+4. Execute o projeto:
+
+```bash
+npm run dev
+```
+
+Isso iniciará o servidor de desenvolvimento e abrirá o aplicativo no seu navegador padrão.
+
+## Contribuindo
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request com melhorias, correções de bugs ou novas funcionalidades.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
