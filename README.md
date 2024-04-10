@@ -1,30 +1,18 @@
-# React + TypeScript + Vite
+# Gerenciador de Tarefas React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto desenvolvido para a disciplina de Linguagens de Programação Para Internet do curso de Análise e Desenvolvimento de Sistemas da Uniube. O objetivo do projeto é criar um gerenciador de tarefas utilizando as tecnologias React, TypeScript e Vite.
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Adicionar uma nova tarefa.
+- Marcar uma tarefa como concluída.
+- Editar o nome de uma tarefa.
+- Excluir uma tarefa.
+- Filtrar as tarefas por status: Todas, Concluídas e Pendentes.
+- Salvar o estado da aplicação no navegador.
 
-## Expanding the ESLint configuration
+## Tecnologias Utilizadas
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- React: Biblioteca JavaScript para construção de interfaces de usuário.
+- TypeScript: Linguagem de programação que adiciona tipagem estática ao JavaScript.
+- Vite: Ferramenta de compilação e desenvolvimento para projetos front-end com suporte a React e TypeScript.
