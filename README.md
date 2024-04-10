@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas React + TypeScript + Vite
 
-Este é um projeto desenvolvido para a disciplina de Linguagens de Programação Para Internet do curso de Análise e Desenvolvimento de Sistemas da Uniube. O objetivo do projeto é criar um gerenciador de tarefas utilizando as tecnologias React, TypeScript e Vite.
+Este é um projeto desenvolvido para a disciplina de Linguagens de Programação Para Internet do curso de Análise e Desenvolvimento de Sistemas da Uniube. O objetivo do projeto é criar um gerenciador de tarefas utilizando a tecnologias React.
 
 ## Funcionalidades
 
