@@ -30,6 +30,12 @@ Seu objetivo é criar uma aplicação funcional para **organizar tarefas**, expl
 
 ---
 
+## 🚀 Experimente agora
+
+👉 **[Gerenciador de Tarefas](https://gabscarlos.github.io/gerenciador-de-tarefas/)**  
+
+---
+
 
 ## 🧠 Tecnologias utilizadas
 
