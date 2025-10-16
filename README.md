@@ -1,54 +1,53 @@
-# Gerenciador de Tarefas React + TypeScript + Vite
+# ✅ Gerenciador de Tarefas
 
-Este é um projeto desenvolvido para a disciplina de Linguagens de Programação Para Internet do curso de Análise e Desenvolvimento de Sistemas da Uniube. O objetivo do projeto é criar um gerenciador de tarefas utilizando a tecnologias React.
+<div align="center">
+  <img src="https://github.com/gabscarlos/gerenciador-tarefas/raw/main/.gitassets/capa.png" width="350" />
+</div>
 
-## Funcionalidades
+<div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+</div>
 
-- Adicionar uma nova tarefa.
-- Marcar uma tarefa como concluída.
-- Editar o nome de uma tarefa.
-- Excluir uma tarefa.
-- Filtrar as tarefas por status: Todas, Concluídas e Pendentes.
-- Salvar o estado da aplicação no navegador.
+---
 
-## Tecnologias Utilizadas
+## 🧭 Sobre o projeto
 
-- React: Biblioteca JavaScript para construção de interfaces de usuário.
-- TypeScript: Linguagem de programação que adiciona tipagem estática ao JavaScript.
-- Vite: Ferramenta de compilação e desenvolvimento para projetos front-end com suporte a React e TypeScript.
+O **Gerenciador de Tarefas** foi desenvolvido para a disciplina de **Linguagens de Programação Para Internet** do curso de **Análise e Desenvolvimento de Sistemas da Uniube**.  
+Seu objetivo é criar uma aplicação funcional para **organizar tarefas**, explorando os recursos modernos do **React** e **TypeScript**.
 
-## Como Executar o Projeto
+---
 
-1. Clone o repositório para sua máquina local:
+## ✨ Funcionalidades
 
-```bash
-git clone https://github.com/seu-usuario/gerenciador-de-tarefas.git
-```
+- ➕ Adicionar novas tarefas  
+- ✅ Marcar tarefas como concluídas  
+- ✏️ Editar o nome de uma tarefa  
+- 🗑️ Excluir tarefas  
+- 🔍 Filtrar por status: Todas, Concluídas e Pendentes  
+- 💾 Salvar o estado da aplicação no navegador  
 
-2. Navegue até o diretório do projeto:
+---
 
-```bash
-cd gerenciador-de-tarefas
-```
+<div align="center">
+  <img src="https://github.com/gabscarlos/gerenciador-tarefas/raw/main/.gitassets/1.png" width="80%" />
+  <br><br>
+  <img src="https://github.com/gabscarlos/gerenciador-tarefas/raw/main/.gitassets/2.png" width="80%" />
+  <br><br>
+  <img src="https://github.com/gabscarlos/gerenciador-tarefas/raw/main/.gitassets/3.png" width="80%" />
+</div>
 
-3. Instale as dependências:
+---
 
-```bash
-npm install
-```
+## 🧠 Tecnologias utilizadas
 
-4. Execute o projeto:
+- **React** — Biblioteca para construção de interfaces de usuário.  
+- **TypeScript** — Linguagem com tipagem estática para maior segurança no código.  
+- **Vite** — Ferramenta de build moderna e otimizada para React + TypeScript.  
 
-```bash
-npm run dev
-```
+---
 
-Isso iniciará o servidor de desenvolvimento e abrirá o aplicativo no seu navegador padrão.
-
-## Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request com melhorias, correções de bugs ou novas funcionalidades.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+<div align="center">
+  <sub>Projeto desenvolvido por <strong>Gabriel Carlos</strong> — veja mais em <a href="https://gabscarlos.github.io/" target="_blank">meu portfólio</a> 🧩</sub>
+</div>
