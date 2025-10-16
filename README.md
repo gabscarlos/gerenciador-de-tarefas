@@ -1,7 +1,7 @@
 # ✅ Gerenciador de Tarefas
 
 <div align="center">
-  <img src="https://github.com/gabscarlos/gerenciador-tarefas/raw/main/.gitassets/capa.png" width="350" />
+  <img src="https://github.com/portfolio-projetos-dev/todo-list/raw/main/.gitassets/1.jpg" width="350" />
 </div>
 
 <div align="center">
@@ -30,15 +30,6 @@ Seu objetivo é criar uma aplicação funcional para **organizar tarefas**, expl
 
 ---
 
-<div align="center">
-  <img src="https://github.com/gabscarlos/gerenciador-tarefas/raw/main/.gitassets/1.png" width="80%" />
-  <br><br>
-  <img src="https://github.com/gabscarlos/gerenciador-tarefas/raw/main/.gitassets/2.png" width="80%" />
-  <br><br>
-  <img src="https://github.com/gabscarlos/gerenciador-tarefas/raw/main/.gitassets/3.png" width="80%" />
-</div>
-
----
 
 ## 🧠 Tecnologias utilizadas
 
